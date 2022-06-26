@@ -1,3 +1,4 @@
+// Primera entrega del curso Backend de CoderHouse - Desafío Clases
 // Creamos la clase Usuario
 class Usuario {
     constructor(nombre,apellido,libros,mascotas) {
